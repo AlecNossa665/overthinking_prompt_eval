@@ -1,0 +1,12 @@
+[
+  {
+    "task_id": "q001",
+    "prompt": "What is the capital of France?",
+    "reference_answer": "Paris"
+  },
+  {
+    "task_id": "q002",
+    "prompt": "What is 17 * 19?",
+    "reference_answer": "323"
+  }
+]
